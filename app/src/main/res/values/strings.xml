@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android Anko Practice</string>
+    <string name="sign_in_username">Username</string>
+    <string name="signIn_password">Password</string>
+    <string name="signIn_button">Click to Sign In</string>
+    <string name="sigIn_alert_invalid_user_title">Invalid username</string>
+    <string name="dialog_button_close">OK</string>
+    <string name="sigIn_alert_invalid_user_message">Invalid user message</string>
+    <string name="sigIn_alert_access_denied_title">Access Denied</string>
+    <string name="sigIn_alert_access_denied_msg">Access to application have been denied</string>
+</resources>
